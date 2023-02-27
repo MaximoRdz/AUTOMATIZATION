@@ -7,3 +7,7 @@ webscraping_selenium.py : scrap the web 'eltiempo.es' to get the max and min tem
 
 web_automatization_selenium.ipynb: basic HTML introduction and RESULTS form the weather scrapping
 
+## Unittest
+
+Testing of the rename function with unittest of python
+
